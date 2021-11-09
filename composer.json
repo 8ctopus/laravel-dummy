@@ -1,12 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "8ctopus/dummy",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
-    "license": "MIT",
+    "description": "dummy laravel project",
     "require": {
         "php": "^7.2.5|^8.0",
         "fideloper/proxy": "^4.4",
